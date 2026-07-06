@@ -9,8 +9,10 @@ public:
         while (temp > 0) {
             mask = (mask << 1) | 1;
             temp = temp >> 1;
+            // for count how many bits right shift 
         }
 
         return num ^ mask;
+        //Xor operator 
     }
 };
