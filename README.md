@@ -25,4 +25,12 @@ I've started learning Data Structures and Algorithms in C++.
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0231-power-of-two) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
