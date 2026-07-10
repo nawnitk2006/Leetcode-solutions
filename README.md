@@ -30,6 +30,7 @@ I've started learning Data Structures and Algorithms in C++.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0001-two-sum) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0136-single-number](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0136-single-number) |
 | [0704-binary-search](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0704-binary-search) |
 ## Hash Table
@@ -39,5 +40,6 @@ I've started learning Data Structures and Algorithms in C++.
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0704-binary-search](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
