@@ -8,6 +8,7 @@ I've started learning Data Structures and Algorithms in C++.
 | ------- |
 | [0007-reverse-integer](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Divide and Conquer
@@ -25,6 +26,7 @@ I've started learning Data Structures and Algorithms in C++.
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0231-power-of-two) |
 ## Array
 |  |
