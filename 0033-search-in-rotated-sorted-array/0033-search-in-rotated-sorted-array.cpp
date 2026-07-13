@@ -3,6 +3,7 @@ public:
     int search(vector<int>& nums, int target) {
         int n = nums.size();
 
+        // If array is not rotated
         if (nums[0] <= nums[n - 1]) {
             int start = 0, end = n - 1;
             while (start <= end) {
@@ -18,6 +19,7 @@ public:
             return -1;
         }
 
+        // ---------- Find Pivot ----------
         int start = 0, end = n - 1;
 
         while (start < end) {
@@ -31,6 +33,7 @@ public:
 
         int pivot = start;
 
+        // ---------- Decide Search Space ----------
         if (target >= nums[pivot] && target <= nums[n - 1]) {
             start = pivot;
             end = n - 1;
@@ -39,6 +42,7 @@ public:
             end = pivot - 1;
         }
 
+        // ---------- Binary Search ----------
         while (start <= end) {
             int mid = start + (end - start) / 2;
 
