@@ -34,6 +34,7 @@ I've started learning Data Structures and Algorithms in C++.
 | [0001-two-sum](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0136-single-number) |
 | [0704-binary-search](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0724-find-pivot-index) |
@@ -48,6 +49,7 @@ I've started learning Data Structures and Algorithms in C++.
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Prefix Sum
