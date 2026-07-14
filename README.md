@@ -11,6 +11,7 @@ I've started learning Data Structures and Algorithms in C++.
 | [0050-powx-n](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0268-missing-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Divide and Conquer
 |  |
@@ -22,6 +23,7 @@ I've started learning Data Structures and Algorithms in C++.
 | [0136-single-number](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0476-number-complement) |
 | [1009-complement-of-base-10-integer](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/1009-complement-of-base-10-integer) |
 ## Recursion
@@ -38,6 +40,7 @@ I've started learning Data Structures and Algorithms in C++.
 | [0035-search-insert-position](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -46,6 +49,7 @@ I've started learning Data Structures and Algorithms in C++.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -54,6 +58,7 @@ I've started learning Data Structures and Algorithms in C++.
 | [0035-search-insert-position](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Prefix Sum
@@ -61,4 +66,8 @@ I've started learning Data Structures and Algorithms in C++.
 | ------- |
 | [0724-find-pivot-index](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1991-find-the-middle-index-in-array](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
