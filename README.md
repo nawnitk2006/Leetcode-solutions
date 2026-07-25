@@ -76,4 +76,12 @@ I've started learning Data Structures and Algorithms in C++.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0053-maximum-subarray) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0344-reverse-string) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
