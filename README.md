@@ -12,6 +12,7 @@ I've started learning Data Structures and Algorithms in C++.
 | [0069-sqrtx](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Divide and Conquer
 |  |
@@ -44,6 +45,7 @@ I've started learning Data Structures and Algorithms in C++.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0628-maximum-product-of-three-numbers](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -73,6 +75,7 @@ I've started learning Data Structures and Algorithms in C++.
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
