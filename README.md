@@ -88,12 +88,14 @@ I've started learning Data Structures and Algorithms in C++.
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Heap (Priority Queue)
