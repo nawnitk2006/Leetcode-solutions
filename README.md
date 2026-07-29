@@ -41,6 +41,7 @@ I've started learning Data Structures and Algorithms in C++.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0074-search-a-2d-matrix](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -64,6 +65,7 @@ I've started learning Data Structures and Algorithms in C++.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0704-binary-search) |
@@ -102,4 +104,8 @@ I've started learning Data Structures and Algorithms in C++.
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
