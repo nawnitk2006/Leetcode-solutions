@@ -8,6 +8,7 @@ I've started learning Data Structures and Algorithms in C++.
 | ------- |
 | [0007-reverse-integer](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0231-power-of-two) |
@@ -40,6 +41,7 @@ I've started learning Data Structures and Algorithms in C++.
 | [0033-search-in-rotated-sorted-array](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
@@ -108,6 +110,7 @@ I've started learning Data Structures and Algorithms in C++.
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 ## Simulation
