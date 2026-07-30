@@ -54,6 +54,7 @@ I've started learning Data Structures and Algorithms in C++.
 | [0704-binary-search](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0867-transpose-matrix](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
 ## Hash Table
@@ -113,8 +114,10 @@ I've started learning Data Structures and Algorithms in C++.
 | [0048-rotate-image](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0867-transpose-matrix](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0867-transpose-matrix](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
