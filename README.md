@@ -21,6 +21,7 @@ I've started learning Data Structures and Algorithms in C++.
 | ------- |
 | [0053-maximum-subarray](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0191-number-of-1-bits) |
+| [0240-search-a-2d-matrix-ii](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -50,6 +51,7 @@ I've started learning Data Structures and Algorithms in C++.
 | [0088-merge-sorted-array](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -74,6 +76,7 @@ I've started learning Data Structures and Algorithms in C++.
 | [0069-sqrtx](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -119,6 +122,7 @@ I've started learning Data Structures and Algorithms in C++.
 | [0054-spiral-matrix](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Simulation
