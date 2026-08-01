@@ -11,6 +11,7 @@ I've started learning Data Structures and Algorithms in C++.
 | [0048-rotate-image](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0069-sqrtx) |
+| [0204-count-primes](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -51,6 +52,7 @@ I've started learning Data Structures and Algorithms in C++.
 | [0088-merge-sorted-array](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0204-count-primes](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -139,4 +141,12 @@ I've started learning Data Structures and Algorithms in C++.
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/1025-divisor-game) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
