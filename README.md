@@ -8,6 +8,7 @@ I've started learning Data Structures and Algorithms in C++.
 | ------- |
 | [0007-reverse-integer](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0069-sqrtx) |
@@ -68,6 +69,7 @@ I've started learning Data Structures and Algorithms in C++.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -110,6 +112,7 @@ I've started learning Data Structures and Algorithms in C++.
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0344-reverse-string) |
