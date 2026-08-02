@@ -42,6 +42,7 @@ I've started learning Data Structures and Algorithms in C++.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0035-search-insert-position) |
@@ -104,6 +105,7 @@ I've started learning Data Structures and Algorithms in C++.
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0283-move-zeroes) |
