@@ -19,6 +19,7 @@ I've started learning Data Structures and Algorithms in C++.
 | [0628-maximum-product-of-three-numbers](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1903-largest-odd-number-in-string](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -121,6 +122,7 @@ I've started learning Data Structures and Algorithms in C++.
 | [0151-reverse-words-in-a-string](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [1903-largest-odd-number-in-string](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -157,4 +159,8 @@ I've started learning Data Structures and Algorithms in C++.
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0204-count-primes) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
