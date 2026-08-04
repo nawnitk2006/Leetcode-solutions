@@ -69,12 +69,14 @@ I've started learning Data Structures and Algorithms in C++.
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1991-find-the-middle-index-in-array](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
+| [3731-find-missing-elements](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0268-missing-number) |
+| [3731-find-missing-elements](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -100,6 +102,7 @@ I've started learning Data Structures and Algorithms in C++.
 | [0268-missing-number](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3731-find-missing-elements](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
