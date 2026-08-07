@@ -44,6 +44,7 @@ I've started learning Data Structures and Algorithms in C++.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -98,6 +99,7 @@ I've started learning Data Structures and Algorithms in C++.
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -111,6 +113,7 @@ I've started learning Data Structures and Algorithms in C++.
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0125-valid-palindrome) |
