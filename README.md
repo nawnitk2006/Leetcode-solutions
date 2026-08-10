@@ -64,6 +64,7 @@ I've started learning Data Structures and Algorithms in C++.
 | [0240-search-a-2d-matrix-ii](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0724-find-pivot-index) |
@@ -105,6 +106,7 @@ I've started learning Data Structures and Algorithms in C++.
 | [0088-merge-sorted-array](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3731-find-missing-elements](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/3731-find-missing-elements) |
