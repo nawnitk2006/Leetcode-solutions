@@ -151,6 +151,7 @@ I've started learning Data Structures and Algorithms in C++.
 | [0125-valid-palindrome](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0344-reverse-string) |
+| [0520-detect-capital](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1903-largest-odd-number-in-string](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Heap (Priority Queue)
