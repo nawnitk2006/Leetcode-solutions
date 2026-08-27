@@ -102,6 +102,7 @@ I've started learning Data Structures and Algorithms in C++.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -211,4 +212,8 @@ I've started learning Data Structures and Algorithms in C++.
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/nawnitk2006/Leetcode-solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
