@@ -1,22 +1,21 @@
 class Solution {
 public:
     int search(vector<int>& nums, int target) {
-       int start=0;
-       int end=nums.size()-1;
-       int mid=start+(end-start)/2; 
-       //when we write mid=(start+end)/2 then TLE if two maximum integer added then out of range of an interger 
-    while(start<=end){
-        if(nums[mid]==target){
+       int i=0;
+       int j=nums.size()-1;
+          int mid=i+(j-i)/2;
+        while(i<=j){
+           if(nums[mid]==target){
             return mid;
+           }
+            else if(nums[mid]>target){
+                j=mid-1;
+            }
+            else{
+                i=mid+1;
+            }
+            mid=i+(j-i)/2;
         }
-        if(target>nums[mid]){
-            start=mid+1;
-        }
-        else{
-            end=mid-1;
-        }
-       mid=start+(end-start)/2;
-    }
-    return -1;
+        return -1;
     }
 };
